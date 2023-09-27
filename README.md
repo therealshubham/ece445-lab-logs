@@ -1,1 +1,1 @@
-# ece445-lab-logs
+# Smart Person-Following Luggage System
